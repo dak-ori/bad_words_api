@@ -19,8 +19,6 @@
 
 - 네이버 맞춤법 검사기 API 활용
 
-- Hunspell 또는 PyKoSpacing 같은 한국어 맞춤법 라이브러리 사용
-
 - GPT API 활용하여 문장 교정
 
 ## API 작동 흐름
