@@ -41,3 +41,4 @@ user_input = "이 바보 멍청이 죽어"
 filtered_text = filter_text(user_input, ban_words)
 
 print(filtered_text) 
+# "이 *** *** ***"
